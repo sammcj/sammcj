@@ -14,20 +14,20 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_stars: yes
-          plugin_repositories: yes
-          plugin_achievements: yes
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_lines: yes
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_stargazers: yes
+          # plugin_isocalendar: yes
+          # plugin_languages: yes
+          # plugin_stars: yes
+          # plugin_repositories: yes
+          # plugin_achievements: yes
+          # plugin_notable: yes
+          # plugin_notable_indepth: yes
+          # plugin_notable_repositories: yes
+          # plugin_lines: yes
+          # plugin_topics: yes
+          # plugin_topics_limit: 0
+          # plugin_topics_mode: icons
+          # plugin_followup: yes
+          # plugin_followup_indepth: yes
+          # plugin_stargazers: yes
           config_order: base.header, isocalendar, languages, stars
           filename: metrics.base.svg
