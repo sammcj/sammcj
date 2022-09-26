@@ -1,0 +1,44 @@
+#### THIS FILE IS MANAGED BY AN AUTOMATED WORKFLOW ####
+
+name: "Pull Request Labeller"
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - reopened
+      - synchronize
+      - ready_for_review
+    branches:
+      - main
+      - master
+  issues:
+  issue_comment:
+
+# One build per branch, cancel out of date builds only on pull requests
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ startsWith(github.ref, 'refs/pull/') }}
+
+permissions:
+  issues: write
+  pull-requests: write
+  statuses: write
+  checks: write
+  contents: read
+
+jobs:
+  labeler:
+    runs-on: ubuntu-latest
+    steps:
+      - id: authenticator # Generates short lives PAT (token) using the IF Authenticator Github App
+        uses: sammcj/github-app-installation-token@main
+        with:
+          application_private_key: ${{ secrets.AUTHENTICATOR_APP_PRIVATE_KEY }}
+          application_id: ${{ secrets.AUTHENTICATOR_APP_ID }}
+      - uses: fuxingloh/multi-labeler@v1
+        id: labeler
+        with:
+          github-token: ${{ steps.authenticator.outputs.token }}
+          config-path: .github/config/labeller.yml
+          config-repo: sammcj/template-repo
