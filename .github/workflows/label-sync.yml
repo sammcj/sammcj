@@ -1,0 +1,29 @@
+#### THIS FILE IS MANAGED BY AN AUTOMATED WORKFLOW ####
+
+name: "Sync Available Github Labels"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 4 * * *"
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  sync-labels:
+    runs-on: ubuntu-latest
+    steps:
+      - id: authenticator # Generates short lives PAT (token) using the IF Authenticator Github App
+        uses: sammcj/github-app-installation-token@main
+        with:
+          application_private_key: ${{ secrets.AUTHENTICATOR_APP_PRIVATE_KEY }}
+          application_id: ${{ secrets.AUTHENTICATOR_APP_ID }}
+      - uses: EndBug/label-sync@v2
+        with:
+          delete-other-labels: true
+          dry-run: false
+          token: ${{ steps.authenticator.outputs.token }}
+          config-file: "https://raw.githubusercontent.com/sammcj/template-repo/main/.github/config/labels.yml"
+          request-token: ${{ steps.authenticator.outputs.token }}
