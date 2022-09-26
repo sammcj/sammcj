@@ -8,6 +8,16 @@ on:
   pull_request:
   workflow_dispatch:
 
+permissions:
+  contents: read
+  checks: write
+  pull-requests: write
+
+# One build per branch, cancel out of date builds
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   lint-markdown:
     name: Lint Markdown
@@ -23,4 +33,4 @@ jobs:
           filter_mode: added
           fail_on_error: false
           ### Flags for markdownlint-cli ###
-          markdownlint_flags: .
+          # markdownlint_flags: .

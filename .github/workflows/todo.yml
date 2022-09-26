@@ -8,6 +8,11 @@ permissions:
   issues: write
   contents: read
 
+# One build per branch, cancel out of date builds
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   todo-issues:
     runs-on: "ubuntu-latest"
