@@ -36,7 +36,7 @@ jobs:
         with:
           application_private_key: ${{ secrets.AUTHENTICATOR_APP_PRIVATE_KEY }}
           application_id: ${{ secrets.AUTHENTICATOR_APP_ID }}
-      - uses: fuxingloh/multi-labeler@v1
+      - uses: fuxingloh/multi-labeler@v2
         id: labeler
         with:
           github-token: ${{ steps.authenticator.outputs.token }}
