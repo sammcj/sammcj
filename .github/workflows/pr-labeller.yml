@@ -1,6 +1,6 @@
 #### THIS FILE IS MANAGED BY AN AUTOMATED WORKFLOW ####
 
-name: 'Pull Request Labeller'
+name: "Pull Request Labeller"
 on:
   pull_request:
     types:
@@ -12,13 +12,14 @@ on:
     branches:
       - main
       - master
-  issues:
-  issue_comment:
+      - "!repo-sync/**"
+      - "!renovate/**"
 
 # One build per branch, cancel out of date builds
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
+  fail-fast: true
 
 permissions:
   issues: write
@@ -29,8 +30,8 @@ permissions:
 
 jobs:
   pr-labeller:
-    name: 'Pull Request Labeller'
-    runs-on: ubuntu-latest
+    name: "Pull Request Labeller"
+    runs-on: ubuntu-22.04
     timeout-minutes: 10
     steps:
       - uses: fuxingloh/multi-labeler@12623606c1cb561e9fff26c8f275563a3a39ba8f # tag=v2
