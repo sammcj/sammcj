@@ -23,7 +23,6 @@ on:
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
-  fail-fast: true
 
 jobs:
   lint-actions-workflows:
