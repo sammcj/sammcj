@@ -1,0 +1,32 @@
+name: "Update Readme With Latest Blog Posts"
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+# One build per branch, cancel out of date builds
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-readme-with-blog:
+    name: "Update this repos README with latest blog posts"
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v3
+      - name: "Pull in posts"
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://smcleod.net/index.xml"
+          max_post_count: "15"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          filter_comments: "false"
+          readme_path: "README.md"
+          committer_username: "Github Actions"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
