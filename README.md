@@ -21,7 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastodon API - Tags and Filters - Part One](https://smcleod.net/2022/12/mastodon-api-tags-and-filters-part-one/)
+- [Energy, Sustainability and Deployment Frequency](https://smcleod.net/2022/12/energy-sustainability-and-deployment-frequency/)
 - [Zsh Configuration and Plugins - Part Two](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-two/)
 - [Github Not-So-Reusable Actions](https://smcleod.net/2022/11/github-not-so-reusable-actions/)
 - [YAML Anchors and Aliases](https://smcleod.net/2022/11/yaml-anchors-and-aliases/)
