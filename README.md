@@ -21,6 +21,8 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
+- [Don&#39;t buy into the myth of group brainstorming](https://smcleod.net/2023/01/dont-buy-into-the-myth-of-group-brainstorming/)
 - [Energy, Sustainability and Deployment Frequency](https://smcleod.net/2022/12/energy-sustainability-and-deployment-frequency/)
 - [Zsh Configuration and Plugins - Part Two](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-two/)
 - [Github Not-So-Reusable Actions](https://smcleod.net/2022/11/github-not-so-reusable-actions/)
@@ -29,8 +31,6 @@ From [smcleod.net](https://smcleod.net)
 - [Encourage Your Peers To Contribute To Open Source](https://smcleod.net/2022/10/encourage-your-peers-to-contribute-to-open-source/)
 - [Making Work Visible - Avoid DMs](https://smcleod.net/2022/10/making-work-visible-avoid-dms/)
 - [The Best Of - 2022 Edition](https://smcleod.net/2022/10/the-best-of-2022-edition/)
-- [It&#39;s 2022 and we&#39;re &lpar;still&rpar; not deploying enough](https://smcleod.net/2022/08/its-2022-and-were-still-not-deploying-enough/)
-- [DALL·E 2 - Selected works](https://smcleod.net/2022/07/dalle-2-selected-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
