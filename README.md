@@ -21,6 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Escaping the Time Trap: Why Estimating Effort, Not Time, Leads to Greater Success](https://smcleod.net/2023/04/escaping-the-time-trap-why-estimating-effort-not-time-leads-to-greater-success/)
 - [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
 - [Don&#39;t buy into the myth of group brainstorming](https://smcleod.net/2023/01/dont-buy-into-the-myth-of-group-brainstorming/)
 - [Energy, Sustainability and Deployment Frequency](https://smcleod.net/2022/12/energy-sustainability-and-deployment-frequency/)
@@ -30,7 +31,6 @@ From [smcleod.net](https://smcleod.net)
 - [Zsh Configuration and Plugins - Part One](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-one/)
 - [Encourage Your Peers To Contribute To Open Source](https://smcleod.net/2022/10/encourage-your-peers-to-contribute-to-open-source/)
 - [Making Work Visible - Avoid DMs](https://smcleod.net/2022/10/making-work-visible-avoid-dms/)
-- [The Best Of - 2022 Edition](https://smcleod.net/2022/10/the-best-of-2022-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
