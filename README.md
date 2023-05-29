@@ -21,6 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Defaulting git clone to shallow &lpar;depth=1&rpar;](https://smcleod.net/2023/05/defaulting-git-clone-to-shallow-depth1/)
 - [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
 - [Escaping the Time Trap: Why Estimating Effort, Not Time, Leads to Greater Success](https://smcleod.net/2023/04/escaping-the-time-trap-why-estimating-effort-not-time-leads-to-greater-success/)
 - [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
@@ -30,7 +31,6 @@ From [smcleod.net](https://smcleod.net)
 - [Github Not-So-Reusable Actions](https://smcleod.net/2022/11/github-not-so-reusable-actions/)
 - [YAML Anchors and Aliases](https://smcleod.net/2022/11/yaml-anchors-and-aliases/)
 - [Zsh Configuration and Plugins - Part One](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-one/)
-- [Encourage Your Peers To Contribute To Open Source](https://smcleod.net/2022/10/encourage-your-peers-to-contribute-to-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
