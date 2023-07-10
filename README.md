@@ -26,11 +26,11 @@ From [smcleod.net](https://smcleod.net)
 - [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
 - [Escaping the Time Trap: Why Estimating Effort, Not Time, Leads to Greater Success](https://smcleod.net/2023/04/escaping-the-time-trap-why-estimating-effort-not-time-leads-to-greater-success/)
 - [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
-- [Don&#39;t buy into the myth of group brainstorming](https://smcleod.net/2023/01/dont-buy-into-the-myth-of-group-brainstorming/)
 - [Energy, Sustainability and Deployment Frequency](https://smcleod.net/2022/12/energy-sustainability-and-deployment-frequency/)
 - [Zsh Configuration and Plugins - Part Two](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-two/)
 - [Github Not-So-Reusable Actions](https://smcleod.net/2022/11/github-not-so-reusable-actions/)
 - [YAML Anchors and Aliases](https://smcleod.net/2022/11/yaml-anchors-and-aliases/)
+- [Zsh Configuration and Plugins - Part One](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
