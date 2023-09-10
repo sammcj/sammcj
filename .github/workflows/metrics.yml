@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule:
-    - cron: "0 20 2 * *"
+  # schedule:
+  #   - cron: "0 20 2 * *"
   workflow_dispatch:
 
 permissions:
@@ -19,6 +19,7 @@ concurrency:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: lowlighter/metrics@latest
         with:
