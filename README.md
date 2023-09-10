@@ -41,9 +41,9 @@ From [smcleod.net](https://smcleod.net)
 
 ### Public Repository Stats
 
-![3D Stats (Public Repos)](./profile-3d-contrib/profile-season-animate.svg)
+![3D Stats](https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-season-animate.svg)
 
-![Stats (Public Repos)](/metrics.base.svg)
+<!-- ![Stats (Public Repos)](/metrics.base.svg)  -->
 
 <!-- markdownlint-disable-next-line -->
 <a rel="me" href="https://aus.social/@s_mcleod"></a>
