@@ -21,6 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [SDXL LoRA Training](https://smcleod.net/2023/10/sdxl-lora-training/)
 - [Fixing AMD CPU Scaling on Fedora](https://smcleod.net/2023/07/fixing-amd-cpu-scaling-on-fedora/)
 - [Defaulting git clone to shallow &lpar;depth=1&rpar;](https://smcleod.net/2023/05/defaulting-git-clone-to-shallow-depth1/)
 - [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
@@ -30,7 +31,6 @@ From [smcleod.net](https://smcleod.net)
 - [Zsh Configuration and Plugins - Part Two](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-two/)
 - [Github Not-So-Reusable Actions](https://smcleod.net/2022/11/github-not-so-reusable-actions/)
 - [YAML Anchors and Aliases](https://smcleod.net/2022/11/yaml-anchors-and-aliases/)
-- [Zsh Configuration and Plugins - Part One](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-one/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
