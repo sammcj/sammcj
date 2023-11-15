@@ -21,6 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fun with Makefiles - Dynamic Menu Generation](https://smcleod.net/2023/11/fun-with-makefiles-dynamic-menu-generation/)
 - [MBA Washing](https://smcleod.net/2023/11/mba-washing/)
 - [SDXL LoRA Training](https://smcleod.net/2023/10/sdxl-lora-training/)
 - [Fixing AMD CPU Scaling on Fedora](https://smcleod.net/2023/07/fixing-amd-cpu-scaling-on-fedora/)
@@ -30,7 +31,6 @@ From [smcleod.net](https://smcleod.net)
 - [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
 - [Energy, Sustainability and Deployment Frequency](https://smcleod.net/2022/12/energy-sustainability-and-deployment-frequency/)
 - [Zsh Configuration and Plugins - Part Two](https://smcleod.net/2022/11/zsh-configuration-and-plugins-part-two/)
-- [Github Not-So-Reusable Actions](https://smcleod.net/2022/11/github-not-so-reusable-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
