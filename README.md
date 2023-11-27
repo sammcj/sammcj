@@ -22,6 +22,7 @@ From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
 - [Introduction to AI and Large Language Models &lpar;LLMs&rpar;](https://smcleod.net/2023/11/introduction-to-ai-and-large-language-models-llms/)
+- [Open source, locally hosted AI powered Siri replacement](https://smcleod.net/2023/11/open-source-locally-hosted-ai-powered-siri-replacement/)
 - [Fun with Makefiles - Dynamic Menu Generation](https://smcleod.net/2023/11/fun-with-makefiles-dynamic-menu-generation/)
 - [MBA Washing](https://smcleod.net/2023/11/mba-washing/)
 - [SDXL LoRA Training](https://smcleod.net/2023/10/sdxl-lora-training/)
@@ -30,7 +31,6 @@ From [smcleod.net](https://smcleod.net)
 - [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
 - [Escaping the Time Trap: Why Estimating Effort, Not Time, Leads to Greater Success](https://smcleod.net/2023/04/escaping-the-time-trap-why-estimating-effort-not-time-leads-to-greater-success/)
 - [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
-- [Energy, Sustainability and Deployment Frequency](https://smcleod.net/2022/12/energy-sustainability-and-deployment-frequency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
