@@ -21,7 +21,7 @@ jobs:
       - name: "Checkout"
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
       - name: "Pull in posts"
-        uses: gautamkrishnar/blog-post-workflow@801f8a36cf68cfaee972d6172764d4fa720a1eb4 # v1
+        uses: gautamkrishnar/blog-post-workflow@d0dc27adfd19a1a263429d39937888a9dfba2f5f # v1
         with:
           feed_list: "https://smcleod.net/index.xml"
           max_post_count: "15"
