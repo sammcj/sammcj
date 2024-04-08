@@ -21,6 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Enterprise &quot;Agile&quot; Software Development Manifesto](https://smcleod.net/2024/04/the-enterprise-agile-software-development-manifesto/)
 - [SuperPrompter - Supercharge your text prompts for AI/LLM image generation](https://smcleod.net/2024/03/superprompter-supercharge-your-text-prompts-for-ai/llm-image-generation/)
 - [Llamalink - Ollama to LM Studio LLM Model Linker](https://smcleod.net/2024/03/llamalink-ollama-to-lm-studio-llm-model-linker/)
 - [Introduction to AI and Large Language Models &lpar;LLMs&rpar;](https://smcleod.net/2023/11/introduction-to-ai-and-large-language-models-llms/)
@@ -30,7 +31,6 @@ From [smcleod.net](https://smcleod.net)
 - [SDXL LoRA Training](https://smcleod.net/2023/10/sdxl-lora-training/)
 - [Fixing AMD CPU Scaling on Fedora](https://smcleod.net/2023/07/fixing-amd-cpu-scaling-on-fedora/)
 - [Defaulting git clone to shallow &lpar;depth=1&rpar;](https://smcleod.net/2023/05/defaulting-git-clone-to-shallow-depth1/)
-- [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
