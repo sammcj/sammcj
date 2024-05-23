@@ -21,6 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Confuddlement: Download Confluence Spaces as Markdown](https://smcleod.net/2024/05/confuddlement-download-confluence-spaces-as-markdown/)
 - [NVApi - Nvidia GPU Monitoring API](https://smcleod.net/2024/05/nvapi-nvidia-gpu-monitoring-api/)
 - [The Enterprise &quot;Agile&quot; Software Development Manifesto](https://smcleod.net/2024/04/the-enterprise-agile-software-development-manifesto/)
 - [SuperPrompter - Supercharge your text prompts for AI/LLM image generation](https://smcleod.net/2024/03/superprompter-supercharge-your-text-prompts-for-ai/llm-image-generation/)
@@ -35,7 +36,6 @@ From [smcleod.net](https://smcleod.net)
 - [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
 - [Escaping the Time Trap: Why Estimating Effort, Not Time, Leads to Greater Success](https://smcleod.net/2023/04/escaping-the-time-trap-why-estimating-effort-not-time-leads-to-greater-success/)
 - [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
-- [Energy, Sustainability and Deployment Frequency](https://smcleod.net/2022/12/energy-sustainability-and-deployment-frequency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
