@@ -21,7 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
-- [Confuddlement: Download Confluence Spaces as Markdown](https://smcleod.net/2024/05/confuddlement-download-confluence-spaces-as-markdown/)
+- [Confuddlement: Download Confluence Spaces as Markdown, Summarise with Ollama](https://smcleod.net/2024/05/confuddlement-download-confluence-spaces-as-markdown-summarise-with-ollama/)
 - [NVApi - Nvidia GPU Monitoring API](https://smcleod.net/2024/05/nvapi-nvidia-gpu-monitoring-api/)
 - [The Enterprise &quot;Agile&quot; Software Development Manifesto](https://smcleod.net/2024/04/the-enterprise-agile-software-development-manifesto/)
 - [SuperPrompter - Supercharge your text prompts for AI/LLM image generation](https://smcleod.net/2024/03/superprompter-supercharge-your-text-prompts-for-ai/llm-image-generation/)
