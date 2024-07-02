@@ -24,7 +24,6 @@ From [smcleod.net](https://smcleod.net)
 - [Gollama: Ollama Model Manager](https://smcleod.net/2024/06/gollama-ollama-model-manager/)
 - [Confuddlement: Download Confluence Spaces as Markdown, Summarise with Ollama](https://smcleod.net/2024/05/confuddlement-download-confluence-spaces-as-markdown-summarise-with-ollama/)
 - [NVApi - Nvidia GPU Monitoring API](https://smcleod.net/2024/05/nvapi-nvidia-gpu-monitoring-api/)
-- [The Enterprise &quot;Agile&quot; Software Development Manifesto](https://smcleod.net/2024/04/the-enterprise-agile-software-development-manifesto/)
 - [SuperPrompter - Supercharge your text prompts for AI/LLM image generation](https://smcleod.net/2024/03/superprompter-supercharge-your-text-prompts-for-ai/llm-image-generation/)
 - [Llamalink - Ollama to LM Studio LLM Model Linker](https://smcleod.net/2024/03/llamalink-ollama-to-lm-studio-llm-model-linker/)
 - [Introduction to AI and Large Language Models &lpar;LLMs&rpar;](https://smcleod.net/2023/11/introduction-to-ai-and-large-language-models-llms/)
@@ -36,6 +35,7 @@ From [smcleod.net](https://smcleod.net)
 - [Defaulting git clone to shallow &lpar;depth=1&rpar;](https://smcleod.net/2023/05/defaulting-git-clone-to-shallow-depth1/)
 - [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
 - [Escaping the Time Trap: Why Estimating Effort, Not Time, Leads to Greater Success](https://smcleod.net/2023/04/escaping-the-time-trap-why-estimating-effort-not-time-leads-to-greater-success/)
+- [Open Budgeting - Subscriptions &amp; Licences](https://smcleod.net/2023/01/open-budgeting-subscriptions-licences/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
