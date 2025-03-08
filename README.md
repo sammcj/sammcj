@@ -21,21 +21,21 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Coding - Live Demo / Brownbag](https://smcleod.net/2025/02/agentic-coding-live-demo-/-brownbag/)
+- [Biased LLM Outputs, Tiananmen Square &amp; Americanisations](https://smcleod.net/2025/01/biased-llm-outputs-tiananmen-square-americanisations/)
+- [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
+- [Will AI Take My Job?](https://smcleod.net/2024/11/will-ai-take-my-job/)
+- [Generating Diagrams with with AI / LLMs](https://smcleod.net/2024/10/generating-diagrams-with-with-ai-/-llms/)
+- [Ingest: Streamlining Content Preparation for LLMs](https://smcleod.net/2024/07/ingest-streamlining-content-preparation-for-llms/)
+- [LLM Parameter Playground](https://smcleod.net/2024/07/llm-parameter-playground/)
+- [Code, Chaos, and Copilots &lpar;AI/LLM Talk July 2024&rpar;](https://smcleod.net/2024/07/code-chaos-and-copilots-ai/llm-talk-july-2024/)
+- [Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)
 - [Rating AI Tools](https://smcleod.net/2024/07/rating-ai-tools/)
 - [Gollama: Ollama Model Manager](https://smcleod.net/2024/06/gollama-ollama-model-manager/)
 - [Confuddlement: Download Confluence Spaces as Markdown, Summarise with Ollama](https://smcleod.net/2024/05/confuddlement-download-confluence-spaces-as-markdown-summarise-with-ollama/)
 - [NVApi - Nvidia GPU Monitoring API](https://smcleod.net/2024/05/nvapi-nvidia-gpu-monitoring-api/)
 - [SuperPrompter - Supercharge your text prompts for AI/LLM image generation](https://smcleod.net/2024/03/superprompter-supercharge-your-text-prompts-for-ai/llm-image-generation/)
 - [Llamalink - Ollama to LM Studio LLM Model Linker](https://smcleod.net/2024/03/llamalink-ollama-to-lm-studio-llm-model-linker/)
-- [Introduction to AI and Large Language Models &lpar;LLMs&rpar;](https://smcleod.net/2023/11/introduction-to-ai-and-large-language-models-llms/)
-- [Open source, locally hosted AI powered Siri replacement](https://smcleod.net/2023/11/open-source-locally-hosted-ai-powered-siri-replacement/)
-- [Fun with Makefiles - Dynamic Menu Generation](https://smcleod.net/2023/11/fun-with-makefiles-dynamic-menu-generation/)
-- [MBA Washing](https://smcleod.net/2023/11/mba-washing/)
-- [SDXL LoRA Training](https://smcleod.net/2023/10/sdxl-lora-training/)
-- [Fixing AMD CPU Scaling on Fedora](https://smcleod.net/2023/07/fixing-amd-cpu-scaling-on-fedora/)
-- [Defaulting git clone to shallow &lpar;depth=1&rpar;](https://smcleod.net/2023/05/defaulting-git-clone-to-shallow-depth1/)
-- [How likely would you be to block a company from asking you to rate everything they do?](https://smcleod.net/2023/05/how-likely-would-you-be-to-block-a-company-from-asking-you-to-rate-everything-they-do/)
-- [Escaping the Time Trap: Why Estimating Effort, Not Time, Leads to Greater Success](https://smcleod.net/2023/04/escaping-the-time-trap-why-estimating-effort-not-time-leads-to-greater-success/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
