@@ -22,7 +22,6 @@ From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
 - [Agentic Coding - Live Demo / Brownbag](https://smcleod.net/2025/02/agentic-coding-live-demo-/-brownbag/)
-- [Biased LLM Outputs, Tiananmen Square &amp; Americanisations](https://smcleod.net/2025/01/biased-llm-outputs-tiananmen-square-americanisations/)
 - [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 - [Will AI Take My Job?](https://smcleod.net/2024/11/will-ai-take-my-job/)
 - [Generating Diagrams with with AI / LLMs](https://smcleod.net/2024/10/generating-diagrams-with-with-ai-/-llms/)
@@ -36,6 +35,7 @@ From [smcleod.net](https://smcleod.net)
 - [NVApi - Nvidia GPU Monitoring API](https://smcleod.net/2024/05/nvapi-nvidia-gpu-monitoring-api/)
 - [SuperPrompter - Supercharge your text prompts for AI/LLM image generation](https://smcleod.net/2024/03/superprompter-supercharge-your-text-prompts-for-ai/llm-image-generation/)
 - [Llamalink - Ollama to LM Studio LLM Model Linker](https://smcleod.net/2024/03/llamalink-ollama-to-lm-studio-llm-model-linker/)
+- [Open source, locally hosted AI powered Siri replacement](https://smcleod.net/2023/11/open-source-locally-hosted-ai-powered-siri-replacement/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
