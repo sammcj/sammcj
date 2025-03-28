@@ -21,6 +21,7 @@ Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Democratisation Paradox: What History Teaches Us About AI](https://smcleod.net/2025/03/the-democratisation-paradox-what-history-teaches-us-about-ai/)
 - [The effects of prompt caching on Agentic coding](https://smcleod.net/2025/03/the-effects-of-prompt-caching-on-agentic-coding/)
 - [Agentic Coding - Live Demo / Brownbag](https://smcleod.net/2025/02/agentic-coding-live-demo-/-brownbag/)
 - [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
@@ -35,7 +36,6 @@ From [smcleod.net](https://smcleod.net)
 - [Confuddlement: Download Confluence Spaces as Markdown, Summarise with Ollama](https://smcleod.net/2024/05/confuddlement-download-confluence-spaces-as-markdown-summarise-with-ollama/)
 - [NVApi - Nvidia GPU Monitoring API](https://smcleod.net/2024/05/nvapi-nvidia-gpu-monitoring-api/)
 - [SuperPrompter - Supercharge your text prompts for AI/LLM image generation](https://smcleod.net/2024/03/superprompter-supercharge-your-text-prompts-for-ai/llm-image-generation/)
-- [Llamalink - Ollama to LM Studio LLM Model Linker](https://smcleod.net/2024/03/llamalink-ollama-to-lm-studio-llm-model-linker/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
