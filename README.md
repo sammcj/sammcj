@@ -2,7 +2,7 @@
 
 > Hi I'm Sam 👋🏻
 
-I'm an in the AI/Platform/Automation/DevOps space.
+I'm an Engineer in the AI/Platform/Automation/DevOps space.
 
 Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.net/cv/) in Melbourne, Australia.
 
