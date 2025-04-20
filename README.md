@@ -4,7 +4,7 @@
 
 I'm an Engineer in the AI/Platform/Automation/DevOps space.
 
-Currently working as a fully-remote [Platform Engineering Lead](https://smcleod.net/cv/) in Melbourne, Australia.
+Currently working as a fully-remote [AI Engineering Principal](https://smcleod.net/cv/) in Melbourne, Australia.
 
 ## Contact
 
