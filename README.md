@@ -21,6 +21,10 @@ Currently working as a fully-remote [AI Engineering Principal](https://smcleod.n
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic Coding Workflow &amp; Cline Demo](https://smcleod.net/2025/06/agentic-coding-workflow-cline-demo/)
+- [Vibe Coding vs Agentic Coding](https://smcleod.net/2025/06/vibe-coding-vs-agentic-coding/)
+- [My Plan, Document, Act, Review flow for Agentic Software Development](https://smcleod.net/2025/04/my-plan-document-act-review-flow-for-agentic-software-development/)
+- [Comprehensive Guide to LLM Sampling Parameters](https://smcleod.net/2025/04/comprehensive-guide-to-llm-sampling-parameters/)
 - [Getting Started with Agentic Systems - Developer Learning Paths](https://smcleod.net/2025/04/getting-started-with-agentic-systems-developer-learning-paths/)
 - [The Cost of Agentic Coding](https://smcleod.net/2025/04/the-cost-of-agentic-coding/)
 - [The Democratisation Paradox: What History Teaches Us About AI](https://smcleod.net/2025/03/the-democratisation-paradox-what-history-teaches-us-about-ai/)
@@ -32,10 +36,6 @@ From [smcleod.net](https://smcleod.net)
 - [Ingest: Streamlining Content Preparation for LLMs](https://smcleod.net/2024/07/ingest-streamlining-content-preparation-for-llms/)
 - [LLM Parameter Playground](https://smcleod.net/2024/07/llm-parameter-playground/)
 - [Code, Chaos, and Copilots &lpar;AI/LLM Talk July 2024&rpar;](https://smcleod.net/2024/07/code-chaos-and-copilots-ai/llm-talk-july-2024/)
-- [Understanding AI/LLM Quantisation Through Interactive Visualisations](https://smcleod.net/2024/07/understanding-ai/llm-quantisation-through-interactive-visualisations/)
-- [Rating AI Tools](https://smcleod.net/2024/07/rating-ai-tools/)
-- [Gollama: Ollama Model Manager](https://smcleod.net/2024/06/gollama-ollama-model-manager/)
-- [Confuddlement: Download Confluence Spaces as Markdown, Summarise with Ollama](https://smcleod.net/2024/05/confuddlement-download-confluence-spaces-as-markdown-summarise-with-ollama/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
