@@ -20,6 +20,9 @@ Currently working as a fully-remote [AI Engineering Principal](https://smcleod.n
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Polluting Context - Let Users Disable Individual MCP Tools](https://smcleod.net/2025/08/stop-polluting-context-let-users-disable-individual-mcp-tools/)
+- [MCP DevTools](https://smcleod.net/2025/08/mcp-devtools/)
+- [Agentic Coding Adoption Cost Cycle](https://smcleod.net/2025/07/agentic-coding-adoption-cost-cycle/)
 - [Agentic Coding Workflow &amp; Cline Demo](https://smcleod.net/2025/06/agentic-coding-workflow-cline-demo/)
 - [Vibe Coding vs Agentic Coding](https://smcleod.net/2025/06/vibe-coding-vs-agentic-coding/)
 - [My Plan, Document, Act, Review flow for Agentic Software Development](https://smcleod.net/2025/04/my-plan-document-act-review-flow-for-agentic-software-development/)
@@ -32,9 +35,6 @@ From [smcleod.net](https://smcleod.net)
 - [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 - [Will AI Take My Job?](https://smcleod.net/2024/11/will-ai-take-my-job/)
 - [Generating Diagrams with with AI / LLMs](https://smcleod.net/2024/10/generating-diagrams-with-with-ai-/-llms/)
-- [Ingest: Streamlining Content Preparation for LLMs](https://smcleod.net/2024/07/ingest-streamlining-content-preparation-for-llms/)
-- [LLM Parameter Playground](https://smcleod.net/2024/07/llm-parameter-playground/)
-- [Code, Chaos, and Copilots &lpar;AI/LLM Talk July 2024&rpar;](https://smcleod.net/2024/07/code-chaos-and-copilots-ai/llm-talk-july-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
