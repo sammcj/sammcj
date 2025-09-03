@@ -20,7 +20,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
-      - uses: yoshi389111/github-profile-3d-contrib@fd54cf20784ed9a86dc7be48bb5eb1f74e92b4f8 # 0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@be61993e25e0d8df2afaa52ed8a0451cae3b34fd # 0.9.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
