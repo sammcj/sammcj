@@ -9,10 +9,9 @@ Currently working as a fully-remote [AI Engineering Principal](https://smcleod.n
 ## Contact
 
 - 🌎 [smcleod.net](https://smcleod.net)
-- 🐘 [Mastodon](https://aus.social/@s_mcleod)
 - 🧑‍💻 [Github](https://www.github.com/sammcj)
-- 🦃 [Twitter](https://www.twitter.com/sammcj)
 - 👔 [LinkedIn](https://www.linkedin.com/in/sammcj)
+- 🐘 [Mastodon](https://aus.social/@s_mcleod)
 
 ---
 
