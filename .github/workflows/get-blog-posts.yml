@@ -30,3 +30,5 @@ jobs:
           readme_path: "README.md"
           committer_username: "Github Actions"
           committer_email: "github-actions[bot]@users.noreply.github.com"
+          user_agent: "Mozilla/5.0 (compatible; blog-post-workflow/1.0; +https://github.com/sammcj/sammcj)"
+          accept_header: "application/rss+xml, application/xml, text/xml"
