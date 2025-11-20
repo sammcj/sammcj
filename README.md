@@ -20,6 +20,7 @@ Currently working as a fully-remote [AI Engineering Principal](https://smcleod.n
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [The Role Bridging Problem](https://smcleod.net/2025/11/the-role-bridging-problem/)
 - [Stop Polluting Context - Let Users Disable Individual MCP Tools](https://smcleod.net/2025/08/stop-polluting-context-let-users-disable-individual-mcp-tools/)
 - [MCP DevTools](https://smcleod.net/2025/08/mcp-devtools/)
 - [Agentic Coding Adoption Cost Cycle](https://smcleod.net/2025/07/agentic-coding-adoption-cost-cycle/)
@@ -34,7 +35,6 @@ From [smcleod.net](https://smcleod.net)
 - [Agentic Coding - Live Demo / Brownbag](https://smcleod.net/2025/02/agentic-coding-live-demo-/-brownbag/)
 - [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 - [Will AI Take My Job?](https://smcleod.net/2024/11/will-ai-take-my-job/)
-- [Generating Diagrams with with AI / LLMs](https://smcleod.net/2024/10/generating-diagrams-with-with-ai-/-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
