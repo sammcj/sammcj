@@ -39,14 +39,12 @@ From [smcleod.net](https://smcleod.net)
 
 ---
 
-## Github Stats
-
-### Public Repository Stats
+## Public Repository Stats
 
 <p align="center" >
   <picture>
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-gitblock.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-gitblock.svg" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-south-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-south-season-animate.svg" />
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 </p>
