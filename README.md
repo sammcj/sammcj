@@ -43,7 +43,12 @@ From [smcleod.net](https://smcleod.net)
 
 ### Public Repository Stats
 
-![3D Stats](https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-season-animate.svg)
+<p align="center" >
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-gitblock.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</p>
 
 <!-- ![Stats (Public Repos)](/metrics.base.svg)  -->
 
