@@ -2,7 +2,7 @@
 
 > Hi I'm Sam 👋🏻
 
-I'm an Engineer in the AI/Platform/Automation/DevOps space.
+I'm an Engineer working in AI, with a 20~ year background in platform engineering and automation
 
 Currently working as a fully-remote [AI Engineering Principal](https://smcleod.net/cv/) in Melbourne, Australia.
 
