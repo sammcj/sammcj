@@ -41,8 +41,6 @@ From [smcleod.net](https://smcleod.net)
 
 ## Github Stats
 
-![Sam's Github stats](https://github-readme-stats.vercel.app/api?username=sammcj&count_private=true)
-
 ### Public Repository Stats
 
 ![3D Stats](https://raw.githubusercontent.com/sammcj/sammcj/main/profile-3d-contrib/profile-season-animate.svg)
