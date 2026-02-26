@@ -20,6 +20,7 @@ Currently working as a fully-remote [AI Engineering Principal](https://smcleod.n
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Patching NVIDIA&#39;s driver and vLLM to enable P2P on consumer GPUs](https://smcleod.net/2026/02/patching-nvidias-driver-and-vllm-to-enable-p2p-on-consumer-gpus/)
 - [The Role Bridging Problem](https://smcleod.net/2025/11/the-role-bridging-problem/)
 - [Stop Polluting Context - Let Users Disable Individual MCP Tools](https://smcleod.net/2025/08/stop-polluting-context-let-users-disable-individual-mcp-tools/)
 - [MCP DevTools](https://smcleod.net/2025/08/mcp-devtools/)
@@ -34,7 +35,6 @@ From [smcleod.net](https://smcleod.net)
 - [The effects of prompt caching on Agentic coding](https://smcleod.net/2025/03/the-effects-of-prompt-caching-on-agentic-coding/)
 - [Agentic Coding - Live Demo / Brownbag](https://smcleod.net/2025/02/agentic-coding-live-demo-/-brownbag/)
 - [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
-- [Will AI Take My Job?](https://smcleod.net/2024/11/will-ai-take-my-job/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
