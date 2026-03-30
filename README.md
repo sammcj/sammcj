@@ -20,6 +20,7 @@ Currently working as a fully-remote [AI Engineering Principal](https://smcleod.n
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [New Apple Silicon M4 &amp; M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
 - [The advice I find myself repeating every time someone asks how to get started with Claude Code](https://smcleod.net/2026/03/the-advice-i-find-myself-repeating-every-time-someone-asks-how-to-get-started-with-claude-code/)
 - [Patching NVIDIA&#39;s driver and vLLM to enable P2P on consumer GPUs](https://smcleod.net/2026/02/patching-nvidias-driver-and-vllm-to-enable-p2p-on-consumer-gpus/)
 - [The Role Bridging Problem](https://smcleod.net/2025/11/the-role-bridging-problem/)
@@ -34,7 +35,6 @@ From [smcleod.net](https://smcleod.net)
 - [The Cost of Agentic Coding](https://smcleod.net/2025/04/the-cost-of-agentic-coding/)
 - [The Democratisation Paradox: What History Teaches Us About AI](https://smcleod.net/2025/03/the-democratisation-paradox-what-history-teaches-us-about-ai/)
 - [The effects of prompt caching on Agentic coding](https://smcleod.net/2025/03/the-effects-of-prompt-caching-on-agentic-coding/)
-- [Agentic Coding - Live Demo / Brownbag](https://smcleod.net/2025/02/agentic-coding-live-demo-/-brownbag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
