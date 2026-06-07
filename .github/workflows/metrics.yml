@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, notable, notable_repositories, metadata
