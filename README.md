@@ -20,6 +20,7 @@ Currently working as a fully-remote [AI Engineering Principal](https://smcleod.n
 From [smcleod.net](https://smcleod.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSpeccer - A Read-Only OpenSpec Dashboard](https://smcleod.net/2026/10/openspeccer-a-read-only-openspec-dashboard/)
 - [Writing and Reviewing Agent Skills - Common Pitfalls](https://smcleod.net/2026/07/writing-and-reviewing-agent-skills-common-pitfalls/)
 - [Measuring Model Quantisation Quality with KL Divergence](https://smcleod.net/2026/04/measuring-model-quantisation-quality-with-kl-divergence/)
 - [New Apple Silicon M4 &amp; M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
@@ -34,7 +35,6 @@ From [smcleod.net](https://smcleod.net)
 - [My Plan, Document, Act, Review flow for Agentic Software Development](https://smcleod.net/2025/04/my-plan-document-act-review-flow-for-agentic-software-development/)
 - [LLM Sampling Parameters Guide](https://smcleod.net/2025/04/llm-sampling-parameters-guide/)
 - [Getting Started with Agentic Systems - Developer Learning Paths](https://smcleod.net/2025/04/getting-started-with-agentic-systems-developer-learning-paths/)
-- [The Cost of Agentic Coding](https://smcleod.net/2025/04/the-cost-of-agentic-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
